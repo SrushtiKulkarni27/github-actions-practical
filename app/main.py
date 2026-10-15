@@ -1,5 +1,5 @@
 def greeting():
-    return "Hello from GitHub Actions!"
+    return "Hello again from automated CI"
 
 
 if __name__ == "__main__":
